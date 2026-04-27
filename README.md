@@ -101,3 +101,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## 🌟 About Me
 
 Hi, I'm **Yousef Elgamily**. I'm a Data Engineer interested in transforming data into useful insights.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yousef-elgamily)
